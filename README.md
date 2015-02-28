@@ -2,7 +2,7 @@
 Simulador en desarrollado en base al analisis de distribuciones de datos.Este se enfoca al rendimiento del costo,demanda precio de productos en base a un margen de tiempo y con un conjunto de datos generados randomicamente.  Este es un projecto desarrollado en NetBeans con Java 6.   
  
  __________________________________________ 
- Ejecución 
+ #Ejecución 
  
  *Visualizacion de los artificios del proyecto.
  Se abre el direcctorio /dist del directorio principal 
@@ -12,7 +12,7 @@ Simulador en desarrollado en base al analisis de distribuciones de datos.Este se
  # java -jar dist/PSimulacion.jar   
 
 _____________________________ 
-Abrir Proyecto  Como si se tratara de un proyecto normal de NetBeans.  
+#Abrir Proyecto  Como si se tratara de un proyecto normal de NetBeans.  
 
 Archivo -> Abri Proyecto.
 Se ubica en el directorio principal donde se encuentra el proyecto.
