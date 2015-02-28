@@ -1,4 +1,4 @@
-# PSimulacion
+# PSimulación
 Simulador en desarrollado en base al analisis de distribuciones de datos.Este se enfoca al rendimiento del costo,demanda precio de productos en base a un margen de tiempo y con un conjunto de datos generados randomicamente.  Este es un projecto desarrollado en NetBeans con Java 6.   
  
  __________________________________________ 
